@@ -1,7 +1,6 @@
 package FinalProject;
 /*
  * Name: Neon Sapkota
- * Class: CMIS 242 6384 Intermediate Program
  * Date: 10/11/2022
  * Final Project
  * 
